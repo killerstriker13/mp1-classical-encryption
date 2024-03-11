@@ -1,4 +1,4 @@
-Name: Shibam Mukhopadhyay
+### @author Shibam Mukhopadhyay
 This is mini-project 1 which includes the Caesar Cipher and Vigenere Cipher! 
 Caesar cipher encodes a message with all possible keys and decodes a message with all possible keys.
 Vigenere Cipher encodes and decodes a message using a a string as the key.
